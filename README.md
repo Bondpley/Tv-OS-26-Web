@@ -17,14 +17,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Bondpley/Tv-OS-26-Simulator">
-  <img src="https://img.shields.io/github/forks/Bondpley/Tv-OS-26-Simulator">
-  <img src="https://img.shields.io/github/issues/Bondpley/Tv-OS-26-Simulator">
+  <img src="https://img.shields.io/github/stars/Bondpley/Tv-OS-26-Web">
+  <img src="https://img.shields.io/github/forks/Bondpley/Tv-OS-26-Web">
+  <img src="https://img.shields.io/github/issues/Bondpley/Tv-OS-26-Web">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/Bondpley/Tv-OS-26-Simulator?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/Bondpley/Tv-OS-26-Simulator?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/Bondpley/Tv-OS-26-Web?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/Bondpley/Tv-OS-26-Web?style=for-the-badge">
 </p>
 
 <p align="center">
