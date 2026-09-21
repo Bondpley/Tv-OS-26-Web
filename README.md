@@ -27,10 +27,6 @@
   <img src="https://img.shields.io/github/repo-size/Bondpley/Tv-OS-26-Web?style=for-the-badge">
 </p>
 
-<p align="center">
-  <img height="420px" style="margin: 0; padding: 0" src="img/preview.png" />
-</p>
-
 > [!IMPORTANT]
 > Independent, unofficial project. **Not affiliated with, endorsed by, or officially connected to Apple Inc.** All Apple, tvOS, Apple TV, and related names, logos, and icons are trademarks of Apple Inc. All icons, glyphs, and visual assets used in this project belong to their respective owners - primarily Apple Inc.
 
